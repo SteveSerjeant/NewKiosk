@@ -1,0 +1,6 @@
+1,Milk,2,£1.50
+2,Oranges,16,£0.70
+3,Tea Bags,14,£1.20
+4,Mountain Dew,9,£1.95
+5,Pepsi,18,£0.99
+6,Cheese Twists,15,£4.50
