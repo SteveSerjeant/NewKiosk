@@ -1,12 +1,8 @@
 package com.model;
-import javax.swing.*;
-import com.view.IKiosk;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
-import java.lang.reflect.Array;
 
 public class Item
 {
