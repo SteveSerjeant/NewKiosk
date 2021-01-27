@@ -1,4 +1,3 @@
-IKiosk.java
 
 package com.view;
 

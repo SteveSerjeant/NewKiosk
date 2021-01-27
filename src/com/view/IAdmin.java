@@ -301,7 +301,7 @@ public class IAdmin {
         //Saves the new item to the stock text file
         updateFile(newItem);
     }
-    public void editItem( String inCode, String inName, String inQuant, String inPrice)
+    public void editItem( String inCode, String inName, String inQuantity, String inPrice)
     {
         //Creating temporary item
         Item tItem = new Item();
@@ -315,7 +315,7 @@ public class IAdmin {
         //Setting the attributes of item as ones passed in to editItem method
         editTItem.setCode(inCode);
         editTItem.setName(inName);
-        editTItem.setQuantity(Integer.parseInt(inQuant));
+        editTItem.setQuantity(Integer.parseInt(inQuantity));
         editTItem.setPrice(inPrice);
 
         //Updates the file with the newly edited item
